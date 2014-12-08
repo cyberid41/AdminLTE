@@ -104,4 +104,5 @@ Image Credits:
 [pickaface](http://pickaface.net/ "")
 
 Original created by [Abdullah](https://github.com/almasaeed2010)
+
 Angularjs version maintained by [Edi Santoso](https://github.com/cyberid41)
