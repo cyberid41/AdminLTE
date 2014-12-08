@@ -1,4 +1,4 @@
-AdminLTE AngualrJs version forking from https://github.com/almasaeed2010/AdminLTE
+AdminLTE AngularJs version forking from https://github.com/almasaeed2010/AdminLTE
 -------------------------
 
 Announcements:
